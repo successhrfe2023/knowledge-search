@@ -1,0 +1,28 @@
+{
+  "name": "nextjs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@ant-design/icons": "^5.1.4",
+    "@vercel/postgres": "^0.3.1",
+    "@vercel/postgres-kysely": "^0.3.1",
+    "antd": "^5.6.1",
+    "easymde": "^2.18.0",
+    "eslint": "8.42.0",
+    "eslint-config-next": "13.4.5",
+    "kysely": "^0.25.0",
+    "next": "13.4.5",
+    "next-connect": "^1.0.0",
+    "openai": "^3.3.0",
+    "pg": "^8.11.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-simplemde-editor": "^5.2.0"
+  }
+}
